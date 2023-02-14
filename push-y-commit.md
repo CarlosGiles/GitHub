@@ -19,6 +19,9 @@ En el siguente ejemplo se cambiarán las imágenes de fondo de una sección en u
 ## Actualizar en github
 * Con **git status** comprobamos los cambios realizados:
 <img width="617" alt="image" src="https://user-images.githubusercontent.com/92232878/218882619-919a5d60-dfd9-4fd9-bf77-b6d31916ed17.png">
+
 * Con **git add .** indicamos que queremos enviar todos los cambios.
+
 * Con **git commit -m "style: images to b2c section hero"** agregamos una descripción al cambio que enviaremos.
+
 * Con **git push origin home-carlos** indicamos que el cambio se sube a la *branch* "home-carlos".
